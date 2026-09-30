@@ -1,0 +1,15 @@
+# Sample indicators - one per line. Lines starting with # are ignored.
+# Safe, well-known test values:
+8.8.8.8
+1.1.1.1
+example.com
+# EICAR antivirus test file (harmless, flagged by design) - MD5
+44d88612fea8a8f36de82e1278abb02f
+# Private IP - the script skips these
+192.168.1.10
+# New line of code CleanBrowsing
+185.228.168.9
+CleanBrowsing.com
+# Second new line AdGuard DNS
+94.140.14.14
+AdGuard.com

@@ -1,0 +1,6 @@
+# Never commit secrets or real investigation data
+.env
+*.key
+enrichment_report.csv
+__pycache__/
+.pytest_cache/
