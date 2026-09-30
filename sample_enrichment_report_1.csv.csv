@@ -1,0 +1,6 @@
+ioc,type,verdict,vt_found,vt_malicious,vt_suspicious,vt_harmless,abuse_score,abuse_reports,country,isp,note
+8.8.8.8,ip,CLEAN,True,0,0,53,0,217,US,Google LLC,
+1.1.1.1,ip,CLEAN,True,0,0,57,0,71,AU,APNIC and Cloudflare DNS Resolver project,
+example.com,domain,CLEAN,True,0,0,62,,,,,
+44d88612fea8a8f36de82e1278abb02f,hash,MALICIOUS,True,66,0,0,,,,,
+192.168.1.10,private_ip,SKIPPED,,,,,,,,,Private or reserved IP (not sent to APIs)
